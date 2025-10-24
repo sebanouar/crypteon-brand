@@ -1,0 +1,20 @@
+{
+  "name": "Crypteon-HET",
+  "symbol": "HET",
+  "description": "HET est le jeton utilitaire de l’écosystème Crypteon sur Base — sécurité multisig, contrat audité, zéro honeypot.",
+  "external_link": "https://crypteon.tech",
+  "image": "https://raw.githubusercontent.com/sebanouar/crypteon-brand/main/het-logo-512.png",
+  "links": [
+    {
+      "name": "Acheter sur Uniswap",
+      "url": "https://app.uniswap.org/swap?chain=base&outputCurrency=0x4e4cc9a23fdf6b04c0bd1d13cd2d6a223fffa293"
+    },
+    {
+      "name": "Voir sur BaseScan",
+      "url": "https://basescan.org/token/0x4e4cc9a23fdf6b04c0bd1d13cd2d6a223fffa293"
+    }
+  ],
+  "address": "0x4e4cc9a23fdf6b04c0bd1d13cd2d6a223fffa293",
+  "chain": "base",
+  "decimals": 18
+}
